@@ -6,13 +6,6 @@ An Arduino-based autonomous line-following robot developed for **Fab Lab (ECLER1
 
 The project is based on the team's Fab Lab presentation and implements a two-IR-sensor feedback system to control two DC geared motors through a motor driver.
 
-## Team
-
-- Soham Patil — 125BTEC1016 — 45
-- Ved Patil — 125BTEC1066 — 46
-- Tanmay Pawar — 125BTEC1130 — 47
-- Reva Phalke — 125BTEC1129 — 48
-
 ## Project idea
 
 The robot detects and follows a visual path, typically a black line on a white surface. IR sensors detect reflected infrared light and the Arduino adjusts the motors to keep the robot aligned with the line.
