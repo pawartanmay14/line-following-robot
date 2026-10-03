@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" fill="#0d1117"/>
+<text x="60" y="115" fill="#58a6ff" font-family="Arial" font-size="54" font-weight="700">Line Following Robot Car</text>
+<text x="60" y="175" fill="#c9d1d9" font-family="Arial" font-size="25">Arduino Uno • IR Sensors • Motor Driver • DC Geared Motors</text>
+<text x="60" y="235" fill="#8b949e" font-family="Arial" font-size="22">Fab Lab — ECLER1VS103 • Semester II</text>
+<path d="M760 290 C850 210 950 330 1060 230" stroke="#ffffff" stroke-width="10" fill="none"/>
+<circle cx="810" cy="276" r="18" fill="#58a6ff"/><circle cx="1035" cy="248" r="18" fill="#58a6ff"/>
+</svg>
