@@ -1,32 +1,3 @@
-/*
-  Line Following Robot Car
-  Fab Lab (ECLER1VS103), Semester II
-
-  Team:
-  Soham Patil
-  Ved Patil
-  Tanmay Pawar
-  Reva Phalke
-
-  Sensor pins from project presentation:
-    Left IR  -> D2
-    Right IR -> D3
-
-  Example motor-driver input pins from presentation:
-    D5, D6, D9, D10
-
-  IMPORTANT:
-  IR modules can use different output polarities. Set LINE_DETECTED
-  after checking your actual sensor module.
-
-  The presentation states:
-    Left = 0, Right = 0 -> move straight
-
-  The remaining turn/search behavior below is a practical implementation
-  assumption for a two-sensor line follower and should be calibrated
-  on the actual robot.
-*/
-
 const int LEFT_SENSOR_PIN  = 2;
 const int RIGHT_SENSOR_PIN = 3;
 
